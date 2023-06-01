@@ -58,7 +58,7 @@ int main()
           break;
 
           case '5':
-          cout << "Goodbye, let's count togather again.";
+          cout << "Goodbye, let's count togather again!";
           exit (0);
           break;
 
