@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1685451012 source:d:\nowy folder (2)\programowanie\po przerwie\project 3 guess the number\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+

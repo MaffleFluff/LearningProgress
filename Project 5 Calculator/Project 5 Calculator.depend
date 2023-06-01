@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1685656403 source:d:\nowy folder (2)\programowanie\po przerwie\project 5 calculator\main.cpp
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+	<conio.h>
+
