@@ -2,6 +2,7 @@
 #include <stdio.h>
 #include <cstdlib>
 #include <conio.h>
+#include <math.h>>
 using namespace std;
 float x,y;
 char choose;
@@ -17,8 +18,9 @@ int main()
       cout << "2. Subtraction" << "\n";
       cout << "3. Multiplication" << "\n";
       cout << "4. Division" << "\n";
-      cout << "5. End Program" << "\n";
-
+      cout << "5. Exponentiation" << "\n";
+      cout << "6. Root of degree"  <<   "\n";
+      cout << "7. End Program" << "\n";
       cout << endl;
 
 
@@ -58,6 +60,14 @@ int main()
           break;
 
           case '5':
+          cout << "It's equal: " << pow(x, y);
+          break;
+
+          case '6':
+          cout << "It's equal: " <<  pow(x, (1/y));
+          break;
+
+          case '7':
           cout << "Goodbye, let's count togather again.";
           exit (0);
           break;
