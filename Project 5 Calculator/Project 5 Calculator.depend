@@ -5,3 +5,10 @@
 	<cstdlib>
 	<conio.h>
 
+1685957837 source:c:\users\pawel\desktop\programowanie\learningprogress\project 5 calculator\main.cpp
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+	<conio.h>
+	<math.h>
+

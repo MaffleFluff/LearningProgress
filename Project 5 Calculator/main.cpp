@@ -31,7 +31,11 @@ int main()
       cin >> x;
       cout << "Second number: ";
       cin >> y;
-
+    if(!(x, y))
+    {
+        cerr << "It's not a number!";
+        exit(0);
+    }
       cout << endl;
       switch (choose)
       {
